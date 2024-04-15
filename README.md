@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) Nest Project template using Nest.Js framework, with Typescript, Swagger, Authenticationt through AWS Cognito, TypeORM to manage a PostgreSQL database, Prettier for code formatter and EsLint as project linter. The goal is to use it as a template for future projects.
 
 ## Installation
 
